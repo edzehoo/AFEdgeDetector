@@ -1,0 +1,119 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+`
+</name>
+</assembly>
+<members>
+<member name="T:TestApp.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:TestApp.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:TestApp.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:TestApp.My.Resources.Resources._2by2Masks">
+<summary>
+  Looks up a localized string similar to 255,255
+0,0
+&lt;variation&gt;
+0,0
+255,255
+&lt;nextorientation&gt;
+255,128
+0,128
+&lt;nextorientation&gt;
+255,0
+0,255
+&lt;nextorientation&gt;
+255,0
+128,128
+&lt;nextorientation&gt;
+255,0
+255,0
+&lt;variation&gt;
+0,255
+0,255
+&lt;nextorientation&gt;
+0,255
+128,128
+&lt;nextorientation&gt;
+0,255
+255,0
+&lt;nextorientation&gt;
+128,255
+128,0
+.
+</summary>
+</member>
+<member name="P:TestApp.My.Resources.Resources._3by3Masks">
+<summary>
+  Looks up a localized string similar to 0,0,0
+255,255,255
+0,0,0
+&lt;variation&gt;
+0,0,0
+0,0,0
+255,255,255
+&lt;variation&gt;
+255,255,255
+0,0,0
+0,0,0
+&lt;nextorientation&gt;
+255,255,0
+0,0,255
+0,0,0
+&lt;variation&gt;
+0,0,0
+255,255,0
+0,0,255
+&lt;nextorientation&gt;
+255,0,0
+0,255,0
+0,0,255
+&lt;variation&gt;
+0,255,0
+0,0,255
+0,0,0
+&lt;variation&gt;
+0,0,0
+255,0,0
+0,255,0
+&lt;nextorientation&gt;
+255,0,0
+255,0,0
+0,255,0
+&lt;variation&gt;
+0,255,0
+0,255,0
+0,0,255
+&lt;nextorientation&gt;
+255,0,0
+255,0,0
+255,0,0
+&lt;variation&gt;
+0,255,0
+0,255,0
+0,255,0
+&lt;variation&gt;
+0,0,255
+0,0 [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:TestApp.My.Resources.Resources._9by9Masks">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+</members>
+</doc>

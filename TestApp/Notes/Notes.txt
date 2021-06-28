@@ -1,0 +1,22 @@
+﻿1) "Scope of Attention" is what causes you to look at a line and follow it
+around all the way until the end of that curve/line / similarity.
+2) Feed the AI with tonnes of images of clear objects. This will help it "train" the
+V1 neurons to fully recognize lines , shapes, etc. It should learn to form all the
+orientation filters automatically
+
+We can't use patches that are too small as it will not produce meaningful result. 
+We should go with 5x5.
+
+3) After this we begin the method of finding a patch where similar orientation is found.
+We encode the distance,angle,color between each found match, angle ,etc.  All that are 
+encoded are the differences.
+
+
+
+
+4) We boil it up the chain. 
+
+5) This to be done across dimension of time too - where similarity of the object
+across time becomes a factor too.
+
+
